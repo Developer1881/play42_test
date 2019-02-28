@@ -42,7 +42,7 @@
           <entry key="Django Console" value="60" />
           <entry key="dummy" value="1" />
           <entry key="html" value="1642" />
-          <entry key="py" value="1958" />
+          <entry key="py" value="1960" />
           <entry key="py@play42" value="237" />
         </counts>
       </usages-collector>
@@ -51,7 +51,7 @@
           <entry key="CommandLine" value="120" />
           <entry key="HTML" value="1642" />
           <entry key="PLAIN_TEXT" value="118" />
-          <entry key="Python" value="2018" />
+          <entry key="Python" value="2020" />
         </counts>
       </usages-collector>
     </session>
@@ -158,8 +158,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/play42/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+            <state relative-caret-position="368">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -247,11 +247,6 @@
             </path>
             <path>
               <item name="play42" type="b2602c69:ProjectViewProjectNode" />
-              <item name="play42" type="462c0819:PsiDirectoryNode" />
-              <item name="play42" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="play42" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -327,7 +322,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,7 +330,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="manage.py@play42" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="manage.py@play42" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.28674698" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32891566" />
@@ -508,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/play42/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        <state relative-caret-position="368">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>

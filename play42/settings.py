@@ -25,7 +25,7 @@ SECRET_KEY = '790k9^#1t7xj04f4r^351j0grk+q*gcnaefozon)tp&5ro%9s7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.play42.club']
 
 
 # Application definition
