@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play42</title>
+</head>
+<body>
+<a href="{% url 'functions_list' %}" class="top-menu"> Главная  <span class="glyphicon glyphicon-plus"></span></a>
+<p></p>
+<p></p>
+
+
+Количество игроков {{ bet_n.n_players }}
+
+<p> </p>
+
+Средний прирост для одной ставки  {{ bet_n.coeficient_profit }} %
+
+
+<p> </p>
+
+Прибыль компании {{ bet_n.final_company_profit }}
+
+<p> </p>
+
+Сумма ставок {{ bet_n.total_bet }}
+<p> </p>
+
+Средняя ставка {{ bet_n.avg_bet }}
+
+
+</body>
+</html>

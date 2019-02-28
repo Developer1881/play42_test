@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play42</title>
+</head>
+<body>
+<a href="{% url 'functions_list' %}" class="top-menu"> Главная  <span class="glyphicon glyphicon-plus"></span></a>
+<p></p>
+<p></p>
+
+<div>
+> Верятность первого игрока {{ bet_double.probability1  }} &ensp; Ставка первого игрока    {{ bet_double.sum1  }}
+    <p></p>
+>    Верятность второго игрока   {{bet_double.probability2}} &ensp; Ставка второго игрока       {{ bet_double.sum2 }}
+
+        <p></p>
+
+<h4>В случае победы команды А </h4>
+
+Выигрыш Первого игрока    {{ bet_double.player1_win1 }} &ensp; Гарантированый возврат {{ bet_double.garanty_moneyback1 }}
+     &ensp;  Полученый коэффициент  {{ bet_double.player1_fact_coef1 }}  &ensp; Справедливый коефициент {{  bet_double.player1_coef1  }}<br>
+    Выигрыш Второго игрока    {{ bet_double.player2_win1 }} &ensp; Гарантированый возврат {{ bet_double.garanty_moneyback2 }}
+    &ensp;  Полученый коэффициент  {{ bet_double.player2_fact_coef1 }}  &ensp; Справедливый коефициент {{  bet_double.player2_coef1  }}
+    <h5>Комиссия Play42   =  {{ bet_double.commission1 }}  </h5>
+
+
+<h4>В случае победы команды Б </h4>
+
+    Выигрыш Первого игрока    {{ bet_double.player1_win2 }} &ensp; Гарантированый возврат {{ bet_double.garanty_moneyback1 }}
+     &ensp;  Полученый коэффициент  {{ bet_double.player1_fact_coef2 }} &ensp; Справедливый коефициент {{  bet_double.player1_coef2  }}<br>
+    Выигрыш Второго игрока    {{ bet_double.player2_win2 }}  &ensp; Гарантированый возврат {{ bet_double.garanty_moneyback2 }}
+    &ensp;  Полученый коэффициент  {{ bet_double.player2_fact_coef2 }} &ensp; Справедливый коефициент {{  bet_double.player2_coef2  }}
+<h5>Комиссия Play42        =     {{ bet_double.commission2 }} </h5>
+
+    <p></p>
+
+</div>
+</body>
+</html>

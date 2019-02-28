@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play42</title>
+</head>
+<body>
+
+<a href="{% url 'functions_list' %}" class="top-menu"> Главная  <span class="glyphicon glyphicon-plus"></span></a>
+<p></p>
+<p></p>
+
+ <h1>Матч Команда А против Команды Б</h1>
+<p>оцените вероятность победы команды А и укажите сумму ставки</p>
+    <form method="POST" class="double_bet-form">{% csrf_token %}
+        {{ form.non_field_errors }}
+<div class="fieldWrapper">
+    {{ form.probability1.errors }}
+    <label for="{{ form.probability1.id_for_label }}">Вероятность 1</label>
+    {{ form.probability1 }}
+</div>
+        <p></p>
+<div class="fieldWrapper">
+    {{ form.sum1.errors }}
+    <label for="{{ form.sum1.id_for_label }}">Ставка 1</label>
+    {{ form.sum1 }}
+</div>
+        <p></p>
+<div class="fieldWrapper">
+    {{ form.probability2.errors }}
+    <label for="{{ form.probability2.id_for_label }}">Вероятность 2</label>
+    {{ form.probability2 }}
+</div>
+        <p></p>
+<div class="fieldWrapper">
+    {{ form.sum2.errors }}
+    <label for="{{ form.sum2.id_for_label }}">Ставка 2</label>
+    {{ form.sum2 }}
+
+    <p></p>
+</div>
+         <button type="submit" class="save btn btn-default">Сохранить ставку </button>
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Play42</title>
+
+    <style>
+a:link, a:visited {
+
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    border: 1px;
+}
+</style>
+
+</head>
+<body>
+
+<a href="{% url 'functions_list' %}" class="top-menu"> Главная  <span class="glyphicon glyphicon-plus"></span></a>
+<p></p>
+<p></p>
+
+
+<a href="{% url 'bet_double' %}" class="top-menu"> <h3> Cимуляция игры на 2 игрока </h3> <span class="glyphicon glyphicon-plus"></span></a>
+<p></p>
+<a href="{% url 'bet_triple' %}" class="top-menu"> <h3> Cимуляция игры на 3 игрока </h3> <span class="glyphicon glyphicon-plus"></span></a>
+<p></p>
+<a href="{% url 'bet_n' %}" class="top-menu"> <h3>  Cимуляция игры N игроков </h3> <span class="glyphicon glyphicon-plus"></span></a>
+
+</body>
+</html>

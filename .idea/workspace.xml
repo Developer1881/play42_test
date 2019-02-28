@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed8217fa-e149-4950-9999-14c8f46c7502" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-758307304">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="22" />
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="22" />
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Django Console" value="60" />
+          <entry key="dummy" value="1" />
+          <entry key="html" value="1642" />
+          <entry key="py" value="1954" />
+          <entry key="py@play42" value="237" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="120" />
+          <entry key="HTML" value="1642" />
+          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="Python" value="2014" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play42_proto/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="169" column="60" lean-forward="true" selection-start-line="169" selection-start-column="60" selection-end-line="169" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1551339752662" expanded="true" signature="374:430" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play42_proto/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_triple_result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+              <folding>
+                <element signature="e#381#387#0#HTML" expanded="true" />
+                <element signature="e#512#518#0#HTML" expanded="true" />
+                <element signature="e#644#650#0#HTML" expanded="true" />
+                <element signature="e#802#808#0#HTML" expanded="true" />
+                <element signature="e#867#873#0#HTML" expanded="true" />
+                <element signature="e#880#886#0#HTML" expanded="true" />
+                <element signature="e#948#954#0#HTML" expanded="true" />
+                <element signature="e#1004#1010#0#HTML" expanded="true" />
+                <element signature="e#1075#1081#0#HTML" expanded="true" />
+                <element signature="e#1082#1088#0#HTML" expanded="true" />
+                <element signature="e#1157#1163#0#HTML" expanded="true" />
+                <element signature="e#1208#1214#0#HTML" expanded="true" />
+                <element signature="e#1279#1285#0#HTML" expanded="true" />
+                <element signature="e#1286#1292#0#HTML" expanded="true" />
+                <element signature="e#1498#1504#0#HTML" expanded="true" />
+                <element signature="e#1515#1521#0#HTML" expanded="true" />
+                <element signature="e#1586#1592#0#HTML" expanded="true" />
+                <element signature="e#1593#1599#0#HTML" expanded="true" />
+                <element signature="e#1876#1882#0#HTML" expanded="true" />
+                <element signature="e#1576#1582#0#HTML" expanded="true" />
+                <element signature="e#1647#1653#0#HTML" expanded="true" />
+                <element signature="e#1793#1799#0#HTML" expanded="true" />
+                <element signature="e#2147#2153#0#HTML" expanded="true" />
+                <element signature="e#1919#1925#0#HTML" expanded="true" />
+                <element signature="e#1990#1996#0#HTML" expanded="true" />
+                <element signature="e#1997#2003#0#HTML" expanded="true" />
+                <element signature="e#2422#2428#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_double_result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#305#311#0#HTML" expanded="true" />
+                <element signature="e#433#439#0#HTML" expanded="true" />
+                <element signature="e#588#594#0#HTML" expanded="true" />
+                <element signature="e#659#665#0#HTML" expanded="true" />
+                <element signature="e#727#733#0#HTML" expanded="true" />
+                <element signature="e#719#725#0#HTML" expanded="true" />
+                <element signature="e#860#866#0#HTML" expanded="true" />
+                <element signature="e#993#999#0#HTML" expanded="true" />
+                <element signature="e#1091#1097#0#HTML" expanded="true" />
+                <element signature="e#1162#1168#0#HTML" expanded="true" />
+                <element signature="e#1359#1365#0#HTML" expanded="true" />
+                <element signature="e#1294#1300#0#HTML" expanded="true" />
+                <element signature="e#1364#1370#0#HTML" expanded="true" />
+                <element signature="e#1561#1567#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play42_proto/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_double.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/play42_proto/admin.py" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto.html" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_dota_result.html" />
+        <option value="$PROJECT_DIR$/play42_proto/froms.py" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_dota.html" />
+        <option value="$PROJECT_DIR$/play42/urls.py" />
+        <option value="$PROJECT_DIR$/play42_proto/urls.py" />
+        <option value="$PROJECT_DIR$/play42_proto/forms.py" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_triple.html" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_n_result.html" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_n.html" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_double.html" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/main.html" />
+        <option value="$PROJECT_DIR$/play42_proto/models.py" />
+        <option value="$PROJECT_DIR$/play42_proto/views.py" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_triple_result.html" />
+        <option value="$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_double_result.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="play42" type="b2602c69:ProjectViewProjectNode" />
+              <item name="play42" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="play42" type="Python.DjangoServer" factoryName="Django server">
+      <module name="play42" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="play42.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8217fa-e149-4950-9999-14c8f46c7502" name="Default Changelist" comment="" />
+      <created>1551019163966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551019163966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="manage.py@play42" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto.html" />
+    <entry file="file://$PROJECT_DIR$/play42_proto/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_n_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_n.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_triple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_double.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="169" column="60" lean-forward="true" selection-start-line="169" selection-start-column="60" selection-end-line="169" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1551339752662" expanded="true" signature="374:430" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_triple_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+          <folding>
+            <element signature="e#381#387#0#HTML" expanded="true" />
+            <element signature="e#512#518#0#HTML" expanded="true" />
+            <element signature="e#644#650#0#HTML" expanded="true" />
+            <element signature="e#802#808#0#HTML" expanded="true" />
+            <element signature="e#867#873#0#HTML" expanded="true" />
+            <element signature="e#880#886#0#HTML" expanded="true" />
+            <element signature="e#948#954#0#HTML" expanded="true" />
+            <element signature="e#1004#1010#0#HTML" expanded="true" />
+            <element signature="e#1075#1081#0#HTML" expanded="true" />
+            <element signature="e#1082#1088#0#HTML" expanded="true" />
+            <element signature="e#1157#1163#0#HTML" expanded="true" />
+            <element signature="e#1208#1214#0#HTML" expanded="true" />
+            <element signature="e#1279#1285#0#HTML" expanded="true" />
+            <element signature="e#1286#1292#0#HTML" expanded="true" />
+            <element signature="e#1498#1504#0#HTML" expanded="true" />
+            <element signature="e#1515#1521#0#HTML" expanded="true" />
+            <element signature="e#1586#1592#0#HTML" expanded="true" />
+            <element signature="e#1593#1599#0#HTML" expanded="true" />
+            <element signature="e#1876#1882#0#HTML" expanded="true" />
+            <element signature="e#1576#1582#0#HTML" expanded="true" />
+            <element signature="e#1647#1653#0#HTML" expanded="true" />
+            <element signature="e#1793#1799#0#HTML" expanded="true" />
+            <element signature="e#2147#2153#0#HTML" expanded="true" />
+            <element signature="e#1919#1925#0#HTML" expanded="true" />
+            <element signature="e#1990#1996#0#HTML" expanded="true" />
+            <element signature="e#1997#2003#0#HTML" expanded="true" />
+            <element signature="e#2422#2428#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play42_proto/templates/play42_proto/bet_double_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#305#311#0#HTML" expanded="true" />
+            <element signature="e#433#439#0#HTML" expanded="true" />
+            <element signature="e#588#594#0#HTML" expanded="true" />
+            <element signature="e#659#665#0#HTML" expanded="true" />
+            <element signature="e#727#733#0#HTML" expanded="true" />
+            <element signature="e#719#725#0#HTML" expanded="true" />
+            <element signature="e#860#866#0#HTML" expanded="true" />
+            <element signature="e#993#999#0#HTML" expanded="true" />
+            <element signature="e#1091#1097#0#HTML" expanded="true" />
+            <element signature="e#1162#1168#0#HTML" expanded="true" />
+            <element signature="e#1359#1365#0#HTML" expanded="true" />
+            <element signature="e#1294#1300#0#HTML" expanded="true" />
+            <element signature="e#1364#1370#0#HTML" expanded="true" />
+            <element signature="e#1561#1567#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
